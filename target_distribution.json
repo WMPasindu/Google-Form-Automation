@@ -1,0 +1,41 @@
+{
+  "total_responses": 153,
+  "demographics": {
+    "Department": {
+      "Procurement": 55,
+      "Warehouse": 51,
+      "Sales": 47
+    },
+    "Experience": {
+      "<1 year": 38,
+      "1–3 years": 46,
+      "3–5 years": 38,
+      ">5 years": 31
+    }
+  },
+  "likert_questions": {
+    "Q3": { "Strongly Disagree": 5, "Disagree": 10, "Neutral": 15, "Agree": 50, "Strongly Agree": 20 },
+    "Q4": { "Strongly Disagree": 3, "Disagree": 8, "Neutral": 12, "Agree": 55, "Strongly Agree": 22 },
+    "Q5": { "Strongly Disagree": 5, "Disagree": 12, "Neutral": 15, "Agree": 50, "Strongly Agree": 18 },
+    "Q6": { "Strongly Disagree": 7, "Disagree": 12, "Neutral": 16, "Agree": 48, "Strongly Agree": 17 },
+    "Q7": { "Strongly Disagree": 6, "Disagree": 10, "Neutral": 18, "Agree": 48, "Strongly Agree": 18 },
+    "Q8": { "Strongly Disagree": 2, "Disagree": 5, "Neutral": 12, "Agree": 50, "Strongly Agree": 31 },
+    "Q9": { "Strongly Disagree": 5, "Disagree": 12, "Neutral": 18, "Agree": 45, "Strongly Agree": 20 },
+    "Q10": { "Strongly Disagree": 6, "Disagree": 14, "Neutral": 20, "Agree": 42, "Strongly Agree": 18 },
+    "Q11": { "Strongly Disagree": 5, "Disagree": 12, "Neutral": 20, "Agree": 45, "Strongly Agree": 18 },
+    "Q12": { "Strongly Disagree": 6, "Disagree": 13, "Neutral": 21, "Agree": 44, "Strongly Agree": 16 },
+    "Q13": { "Strongly Disagree": 7, "Disagree": 15, "Neutral": 23, "Agree": 40, "Strongly Agree": 15 },
+    "Q14": { "Strongly Disagree": 3, "Disagree": 7, "Neutral": 10, "Agree": 50, "Strongly Agree": 30 },
+    "Q15": { "Strongly Disagree": 2, "Disagree": 5, "Neutral": 10, "Agree": 48, "Strongly Agree": 35 },
+    "Q16": { "Strongly Disagree": 2, "Disagree": 4, "Neutral": 10, "Agree": 48, "Strongly Agree": 36 },
+    "Q17": { "Strongly Disagree": 3, "Disagree": 6, "Neutral": 12, "Agree": 50, "Strongly Agree": 29 },
+    "Q18": { "Strongly Disagree": 3, "Disagree": 7, "Neutral": 10, "Agree": 50, "Strongly Agree": 30 },
+    "Q19": { "Strongly Disagree": 2, "Disagree": 5, "Neutral": 10, "Agree": 48, "Strongly Agree": 35 },
+    "Q20": { "Strongly Disagree": 2, "Disagree": 5, "Neutral": 10, "Agree": 48, "Strongly Agree": 35 },
+    "Q21": { "Strongly Disagree": 3, "Disagree": 7, "Neutral": 12, "Agree": 48, "Strongly Agree": 30 },
+    "Q22": { "Strongly Disagree": 2, "Disagree": 5, "Neutral": 10, "Agree": 48, "Strongly Agree": 35 },
+    "Q23": { "Strongly Disagree": 2, "Disagree": 5, "Neutral": 10, "Agree": 48, "Strongly Agree": 35 },
+    "Q24": { "Strongly Disagree": 3, "Disagree": 7, "Neutral": 12, "Agree": 48, "Strongly Agree": 30 },
+    "Q25": { "Strongly Disagree": 2, "Disagree": 4, "Neutral": 10, "Agree": 48, "Strongly Agree": 36 }
+  }
+}
